@@ -1,0 +1,17 @@
+AVI Database
+
+1. Carregamento dos dados multi-target
+2. Multi-target
+    2.1 Imprimir gráficos dos três domínios
+    2.2 Gerar o objeto mne.EpochsArray e plotar os gráficos (amostra), com os cortes de frequência (4 ~ 14hz) dos dados evocados
+      2.2.1 Compute.psd (fmin, fmax) -> Pesquisar sobre!!
+    2.3 Aplicar o filtro passa-faixa sobre as frequências de interesse
+    2.4 Classificação por isolamento de frequência
+
+
+BETA 
+
+1. Identificar o modelo de experimentação
+    1.1 Dimensionalidade (explicar)
+2. Realização dos mesmos passos realizados em "AVI Database"
+3. Filtragem Espacial *PESQUISAR MÉTODOS DE FILTRAGEM ESPACIAL*
